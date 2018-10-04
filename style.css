@@ -1,0 +1,33 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: #4F8497;
+}
+
+h2{
+  color: DimGray;
+}
+
+.main{
+   display:flex;
+   justify-content:space-around;
+   height: 70vh;  
+     
+}
+
+.left,.right{
+  width: 46vw;
+  
+  
+}
+
+img{
+  height:40vh;
+    width:auto;
+  margin:3vh 0;
+  
+}
